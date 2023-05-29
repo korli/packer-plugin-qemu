@@ -6,7 +6,7 @@ require (
 	github.com/digitalocean/go-qemu v0.0.0-20210326154740-ac9e0b687001
 	github.com/hashicorp/go-version v1.6.0
 	github.com/hashicorp/hcl/v2 v2.14.1
-	github.com/hashicorp/packer-plugin-sdk v0.4.0
+	github.com/hashicorp/packer-plugin-sdk v0.4.1-0.20230525175522-7c81952d41cc
 	github.com/mitchellh/go-vnc v0.0.0-20150629162542-723ed9867aed
 	github.com/stretchr/testify v1.7.0
 	github.com/zclconf/go-cty v1.10.0
